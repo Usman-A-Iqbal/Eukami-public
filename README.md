@@ -1,55 +1,49 @@
 
-# Team name
+# Introduction
+
+The purpose of the project was to collaborate in a small agile team to design and develop a web-based e-commerce store based on real client requirements. The project followed the Software Development Lifecycle (SDLC), starting with requirements gathering through a client interview. This was followed by planning and analysis, where user stories and technical specifications were defined. The design phase included wireframes and UI/UX planning, leading into iterative development using agile sprints. Regular testing, including unit and integration testing, was conducted to ensure functionality and quality. Finally, the project concluded with deployment and a client demonstration, incorporating feedback for refinement.
+
+# Website name
 EUKAMI
 
-# Information on each team member
-## Kenny Kei Yun Sum 
-Student ID: 230215740
+# Team Members
+This project was undertaken as part of the Team Project module during the MSc Computer Science degree. The goal was to collaboratively design and develop a full-stack e-commerce website. The project was carried out using Agile methodologies, emphasizing iterative development, client feedback, and team collaboration throughout the software development lifecycle.
 
+Team Members:
+
+## Kenny Kei Yun Sum 
+Responsibility: Front-end Developmnt and documentation
 GitHub: Kenji1245
 
 ## Muhtasib-Billah Dahir
-Student ID: 170022893
-
+Responsibility: Front-end/Back-end and documentation
 GitHub: Muhtasib1
 
 ## Usman Ali Iqbal
-Student ID: 170220776
-
+Responsibility: Front-end/Back-end, UI/UX, Testing and documentation
 GitHub: Usman-A-Iqbal
 
 ## Avinash Kommalapati
-Student ID: 230381001
-
+Responsibility: User interface design & Testing
 GitHub: Avinashkom
 
 ## Ifeoluwa Odubela
-Student ID: 230399822
-
+Responsibility: Full-stack Development & Project Leader
 GitHub: Ife-Ody
 
 ## Eniola Oduekun
-Student ID: 230402030
-
+Responsibility: Front-end
 GitHub: enzoriise
 
 ## Khadija Amin
-Student ID: 190030308
-
+Responsibility: UI desgin and documentation
 GitHub: Aminkhadi
 
 
-# Introduction
-
-The purpose of the Team Project module is to evaluate the team’s ability to communicate on technical work, problem solve, absolve conflict and work as a team. 
-
 # Aim of the project 
 
-The purpose of the software project is to design and implement an e-commerce website. The website will focus on selling audio products including, headphones, earphones, speakers, and other electronic products. 
+The purpose of this software project is to design and implement a fully functional e-commerce website focused on the sale of audio and electronic products. The platform will feature a range of items including headphones, earphones, speakers, and related accessories, providing users with a seamless and secure shopping experience.
 
-# Website URL 
-
-Eukami website: https://eukami.vercel.app/
 
 # Purpose of the website 
 
@@ -100,7 +94,7 @@ npm run dev //to run this on your local machine
 >
 ## Main Page
 
-The main page contains an example of how a product is shown within our website, which will allow a new user to develop an understanding of how the EUKAMI website is represented. In addition, the page also shows various categories of products that users are able to browse and buy.  
+The main/landing page is first page customers will encounter and displays keys products from the website, which provides users with a simple, intuituve and profressional user interface. In addition, the page also shows various categories of products that users are able to browse and buy.  
 
 [Main page Screenshot](Screenshots/main_page.png)
 
