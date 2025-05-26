@@ -102,7 +102,8 @@ npm run dev //to run this on your local machine
 
 The main page contains an example of how a product is shown within our website, which will allow a new user to develop an understanding of how the EUKAMI website is represented. In addition, the page also shows various categories of products that users are able to browse and buy.  
 
-<img src="https://raw.githubusercontent.com/Eukami-Team-4/eukami/main/Screenshots/main_page.png" width="100%">
+[Main page Screenshot](Screenshots/main_page.png)
+
 
 
 ## About Us
