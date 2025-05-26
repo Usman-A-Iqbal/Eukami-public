@@ -1,63 +1,42 @@
+# EUKAMI – E-commerce Website for Audio & Electronic Products
 
-# Introduction
+## Introduction
 
-The purpose of the project was to collaborate in a small agile team to design and develop a web-based e-commerce store based on real client requirements. The project followed the Software Development Lifecycle (SDLC), starting with requirements gathering through a client interview. This was followed by planning and analysis, where user stories and technical specifications were defined. The design phase included wireframes and UI/UX planning, leading into iterative development using agile sprints. Regular testing, including unit and integration testing, was conducted to ensure functionality and quality. Finally, the project concluded with deployment and a client demonstration, incorporating feedback for refinement.
+This project was developed as part of the Team Project module in the MSc Computer Science program. The aim was to collaborate in a small agile team to design and implement a full-stack e-commerce website for audio and electronic products, based on real client requirements.
 
-# Website name
-EUKAMI
+The project followed the full Software Development Lifecycle (SDLC):
+- ✅ **Requirements Gathering** – Conducted through client interviews.
+- 📝 **Planning & Analysis** – Defined user stories, use cases, and technical architecture.
+- 🎨 **Design** – Wireframes and UI/UX planning using Figma.
+- ⚙️ **Development** – Carried out in agile sprints with version control via Git/GitHub.
+- 🧪 **Testing** – Included unit, integration, and user acceptance testing.
+- 🚀 **Deployment** – Final product deployed using Vercel and demonstrated to the client with feedback loops for improvements.
 
-# The Team
-This project was undertaken as part of the Team Project module during the MSc Computer Science degree. The goal was to collaboratively design and develop a full-stack e-commerce website. The project was carried out using Agile methodologies, emphasizing iterative development, client feedback, and team collaboration throughout the software development lifecycle.
+## The Team
 
-### Team Members:
+This project was completed by a multidisciplinary team using Agile methodologies. Tasks were distributed based on individual strengths and areas of expertise.
 
-### Kenny Kei Yun Sum 
-Responsibility: Front-end Developmnt and documentation
+| Name                     | Role(s)                                 | GitHub            |
+|--------------------------|------------------------------------------|-------------------|
+| Kenny Kei Yun Sum        | Front-end Development, Documentation     | [Kenji1245]
+| Muhtasib-Billah Dahir    | Front-end & Back-end Development         | [Muhtasib1]
+| Usman Ali Iqbal          | Full-stack Development, UI/UX, Testing   | [Usman-A-Iqbal]
+| Avinash Kommalapati      | UI Design, Testing                       | [Avinashkom]
+| Ifeoluwa Odubela         | Full-stack Development, Project Leader   | [Ife-Ody]
+| Eniola Oduekun           | Front-end Development                    | [enzoriise]
+| Khadija Amin             | UI Design, Documentation                 | [Aminkhadi]
 
-GitHub: Kenji1245
-
-### Muhtasib-Billah Dahir
-Responsibility: Front-end/Back-end and documentation
-
-GitHub: Muhtasib1
-
-### Usman Ali Iqbal
-Responsibility: Front-end/Back-end, UI/UX, Testing and documentation
-
-GitHub: Usman-A-Iqbal
-
-### Avinash Kommalapati
-Responsibility: User interface design & Testing
-
-GitHub: Avinashkom
-
-### Ifeoluwa Odubela
-Responsibility: Full-stack Development & Project Leader
-
-GitHub: Ife-Ody
-
-### Eniola Oduekun
-Responsibility: Front-end
-
-GitHub: enzoriise
-
-### Khadija Amin
-Responsibility: UI desgin and documentation
-
-GitHub: Aminkhadi
-
-
-# Aim of the project 
+## Aim of the project 
 
 The purpose of this software project is to design and implement a fully functional e-commerce website focused on the sale of audio and electronic products. The platform will feature a range of items including headphones, earphones, speakers, and related accessories, providing users with a seamless and secure shopping experience.
 
 
-# Purpose of the website 
+## Purpose of the website 
 
 The aim of the project is to design a website which focuses on selling audio products to consumers. These products include headphones, earphones, speakers and other electronic products. 
 The target audience of this platform is aimed towards customers between the age of 14-30. Products selected for the website are heavily based on listening to music. 
 
-# Tools that have been used
+## Programming Languages/Tools used
 
 ## HTML
 Hypertext Markup Language, a system used to design and display websites. Acts as the structure of the web content. HTML was used to create the structure of the EUKAMI website. 
@@ -82,10 +61,12 @@ Git and GitHub was used to allow multiple developers to work on the same codebas
 ## Vercel 
 A frontend Cloud platform, which maintains the EUKAMI website framework. 
 
-# What we have learnt
+## What We Learned
 
-During this team project module, we have learnt to effectively work as a team, solve disputes, identify issues within the project and allocate task to team members which best fits their strengths.
-In terms of technical skills, software tools were learnt such as html, CSS, JavaScript, MYSQL and Git + GitHub in order to develop the EUKAMI website. 
+- 🌱 Developed strong team collaboration and communication skills through regular meetings and Agile practices.
+- 🔍 Learned to identify and resolve issues quickly during the development process.
+- 📚 Gained hands-on experience with tools such as React, Tailwind CSS, Supabase, Git/GitHub, and Vercel.
+- 🧠 Improved knowledge of SDLC phases including requirements analysis, prototyping, testing, and deployment.
 
 ## Getting Started
 
@@ -99,9 +80,10 @@ npm run dev //to run this on your local machine
 ```
 > Note you will also need to create the environment variables in env.local
 >
-## Main Page
 
-The main/landing page is first page customers will encounter and displays keys products from the website, which provides users with a simple, intuituve and profressional user interface. In addition, the page also shows various categories of products that users are able to browse and buy.  
+ ## Main Page
+
+The landing page showcases featured products and categories in a modern, professional, and intuitive layout. It highlights trending items and allows users to navigate easily to product categories.
 
 ![Main page Screenshot](Screenshots/main_page.png)
 
