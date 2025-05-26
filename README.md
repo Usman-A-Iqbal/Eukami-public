@@ -91,8 +91,8 @@ In terms of technical skills, software tools were learnt such as html, CSS, Java
 To get started with this project, clone the repository and install the dependencies:
 
 ```bash
-git clone <repository-url>
-cd <repository-name>
+git clone git@github.com:Usman-A-Iqbal/Eukami-public.git
+cd Eukami-public
 npm install
 npm run dev //to run this on your local machine
 ```
