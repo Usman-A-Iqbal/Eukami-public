@@ -103,7 +103,7 @@ npm run dev //to run this on your local machine
 
 The main/landing page is first page customers will encounter and displays keys products from the website, which provides users with a simple, intuituve and profressional user interface. In addition, the page also shows various categories of products that users are able to browse and buy.  
 
-[Main page Screenshot](Screenshots/main_page.png)
+![Main page Screenshot](Screenshots/main_page.png)
 
 
 
@@ -111,13 +111,13 @@ The main/landing page is first page customers will encounter and displays keys p
 
 The About Us page holds information on how EUKAMI was established. It also includes the purpose of why EUKAMI was created as well as a brief introduction to its history. 
 
-<img src="https://raw.githubusercontent.com/Eukami-Team-4/eukami/main/Screenshots/about_us.png" width="100%">
+![about us page](Screenshots/about_us.png)
 
 ## Headphones
 
 The Headphone page contains various high quailty headphones for purchase. 
 
-<img src="https://raw.githubusercontent.com/Eukami-Team-4/eukami/main/Screenshots/headphones_page.png" width="100%">
+![headphones page](Screenshots/headphones_page.png)
 
 ## Speakers
 
@@ -129,25 +129,25 @@ The Speaker page provides numerous top-grade Speakers available to buy.
 
 The earphone page gives a diverse number of exceptional Earphones customers can obtain. 
 
-<img src="https://raw.githubusercontent.com/Eukami-Team-4/eukami/main/Screenshots/earphones_page.png" width="100%">
+![earphones page](Screenshots/earphones_page.png)
 
 ## Contact Us 
 
 The Contact Us page allows customer to contact support if they experience any problems with the product, website, delivery or other inquiries.
 
-<img src="https://raw.githubusercontent.com/Eukami-Team-4/eukami/main/Screenshots/contact_us.png" width="100%">
+![contact us page](Screenshots/contact_us.png)
 
 ## Sign in or Sign up
 
 This page allows customers to sign in or create an account if they haven't already. 
 
-<img src="https://raw.githubusercontent.com/Eukami-Team-4/eukami/main/Screenshots/sign_in.png" width="100%">
+![sign in page](Screenshots/sign_in.png)
 
 ## Cart page 
 
 This page allows customers to finalise products purchase once they decided which product to buy. 
 
-<img src="https://raw.githubusercontent.com/Eukami-Team-4/eukami/main/Screenshots/cart.png" width="100%">
+![cart images](Screenshots/cart.png)
 
 
 
