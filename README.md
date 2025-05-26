@@ -102,51 +102,50 @@ npm run dev //to run this on your local machine
 
 The main page contains an example of how a product is shown within our website, which will allow a new user to develop an understanding of how the EUKAMI website is represented. In addition, the page also shows various categories of products that users are able to browse and buy.  
 
-<img width="1470" alt="image" src="https://github.com/Eukami-Team-4/eukami/assets/116498504/c4eb09f0-e8b5-4937-8264-9be908eee4a5">
-<img width="1470" alt="image" src="https://github.com/Eukami-Team-4/eukami/assets/116498504/5e27cd6c-d8c0-44ee-b5ee-e4438aaf2872">
+<img src="https://raw.githubusercontent.com/Eukami-Team-4/eukami/main/Screenshots/main_page.png" width="100%">
+
 
 ## About Us
 
 The About Us page holds information on how EUKAMI was established. It also includes the purpose of why EUKAMI was created as well as a brief introduction to its history. 
 
-<img width="1470" alt="image" src="https://github.com/Eukami-Team-4/eukami/assets/116498504/a329f431-1da5-4934-885b-b925043c3946">
+<img src="https://raw.githubusercontent.com/Eukami-Team-4/eukami/main/Screenshots/about_us.png" width="100%">
 
 ## Headphones
 
 The Headphone page contains various high quailty headphones for purchase. 
 
-<img width="1470" alt="image" src="https://github.com/Eukami-Team-4/eukami/assets/116498504/69e8a659-9c4a-4fb5-98a3-1f81e00d9c01">
+<img src="https://raw.githubusercontent.com/Eukami-Team-4/eukami/main/Screenshots/headphones_page.png" width="100%">
 
 ## Speakers
 
 The Speaker page provides numerous top-grade Speakers available to buy.
 
-<img width="1470" alt="image" src="https://github.com/Eukami-Team-4/eukami/assets/116498504/3fad72ab-a77e-48ec-84f3-507b864f5319">
+<img src="https://raw.githubusercontent.com/Eukami-Team-4/eukami/main/Screenshots/speakers_page.png" width="100%">
 
 ## Earphones 
 
 The earphone page gives a diverse number of exceptional Earphones customers can obtain. 
 
-<img width="1470" alt="image" src="https://github.com/Eukami-Team-4/eukami/assets/116498504/4a9ffce1-31b0-48d1-be63-e35559c0c666">
+<img src="https://raw.githubusercontent.com/Eukami-Team-4/eukami/main/Screenshots/earphones_page.png" width="100%">
 
 ## Contact Us 
 
 The Contact Us page allows customer to contact support if they experience any problems with the product, website, delivery or other inquiries.
 
-<img width="1470" alt="image" src="https://github.com/Eukami-Team-4/eukami/assets/116498504/42b0084d-691a-49c2-9d45-869f7312c1ef">
+<img src="https://raw.githubusercontent.com/Eukami-Team-4/eukami/main/Screenshots/contact_us.png" width="100%">
 
 ## Sign in or Sign up
 
 This page allows customers to sign in or create an account if they haven't already. 
 
-<img width="1470" alt="image" src="https://github.com/Eukami-Team-4/eukami/assets/116498504/1dc83a82-c28e-4ea4-809f-8327a8aa6798">
+<img src="https://raw.githubusercontent.com/Eukami-Team-4/eukami/main/Screenshots/sign_in.png" width="100%">
 
 ## Cart page 
 
 This page allows customers to finalise products purchase once they decided which product to buy. 
 
-<img width="1470" alt="image" src="https://github.com/Eukami-Team-4/eukami/assets/116498504/1addadda-2656-4804-8276-cc194f380df2">
-
+<img src="https://raw.githubusercontent.com/Eukami-Team-4/eukami/main/Screenshots/cart.png" width="100%">
 
 
 
