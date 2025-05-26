@@ -9,7 +9,7 @@ EUKAMI
 # Team Members
 This project was undertaken as part of the Team Project module during the MSc Computer Science degree. The goal was to collaboratively design and develop a full-stack e-commerce website. The project was carried out using Agile methodologies, emphasizing iterative development, client feedback, and team collaboration throughout the software development lifecycle.
 
-Team Members:
+## Team Members:
 
 ### Kenny Kei Yun Sum 
 Responsibility: Front-end Developmnt and documentation
