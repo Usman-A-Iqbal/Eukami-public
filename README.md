@@ -123,7 +123,7 @@ The Headphone page contains various high quailty headphones for purchase.
 
 The Speaker page provides numerous top-grade Speakers available to buy.
 
-<img src="https://raw.githubusercontent.com/Eukami-Team-4/eukami/main/Screenshots/speakers_page.png" width="100%">
+![speakers page](Screenshots/speakers_page.png)
 
 ## Earphones 
 
