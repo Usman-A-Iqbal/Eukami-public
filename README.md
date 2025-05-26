@@ -11,31 +11,31 @@ This project was undertaken as part of the Team Project module during the MSc Co
 
 Team Members:
 
-## Kenny Kei Yun Sum 
+### Kenny Kei Yun Sum 
 Responsibility: Front-end Developmnt and documentation
 GitHub: Kenji1245
 
-## Muhtasib-Billah Dahir
+### Muhtasib-Billah Dahir
 Responsibility: Front-end/Back-end and documentation
 GitHub: Muhtasib1
 
-## Usman Ali Iqbal
+### Usman Ali Iqbal
 Responsibility: Front-end/Back-end, UI/UX, Testing and documentation
 GitHub: Usman-A-Iqbal
 
-## Avinash Kommalapati
+### Avinash Kommalapati
 Responsibility: User interface design & Testing
 GitHub: Avinashkom
 
-## Ifeoluwa Odubela
+### Ifeoluwa Odubela
 Responsibility: Full-stack Development & Project Leader
 GitHub: Ife-Ody
 
-## Eniola Oduekun
+### Eniola Oduekun
 Responsibility: Front-end
 GitHub: enzoriise
 
-## Khadija Amin
+### Khadija Amin
 Responsibility: UI desgin and documentation
 GitHub: Aminkhadi
 
